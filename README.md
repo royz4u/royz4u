@@ -1,5 +1,5 @@
 ## Hi there.I'm Raj👋
-A strategic IT professional and independent consultant specializing in scalable software architecture, cybersecurity insights, and technical compliance.
+A strategic IT professional and independent consultant specializing in scalable software architecture, AI & cybersecurity insights, and technical compliance.
 
 <!--
 **royz4u/royz4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
